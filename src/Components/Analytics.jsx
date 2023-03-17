@@ -12,10 +12,10 @@ const Analytics = () => {
             Manage Data Analytics Centrally
           </h1>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore quae
-            doloremque, explicabo assumenda nesciunt dolorum quis maiores
-            exercitationem tempore, fugit repellat delectus perspiciatis, fuga
-            rerum ullam ratione illo sequi. Dolorem.
+            Centralizing data analytics allows organizations to achieve a number
+            of benefits. One of the key benefits is the ability to streamline
+            data management processes. By having all data stored in one
+            location, organizations can reduce the time and effort
           </p>
           <button className="bg-[#00df9a] w-[200px] rounded-md mx-auto md:mx-0 font-medium my-6 py-3 text-black">
             Get started

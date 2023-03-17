@@ -62,6 +62,7 @@ function Footer() {
           </ul>
         </div>
       </div>
+      <div className='flex '>Copyrite 2023</div>
     </div>
   );
 }

@@ -1,2 +1,2 @@
 # Link to the demo
-https://bigda.netlify.app/
+https://otofast.netlify.app/

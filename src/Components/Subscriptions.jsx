@@ -13,7 +13,7 @@ const Cards = () => {
             src={Single}
             alt="Single"
           />
-          <h2 className='text-2xl font-bold text-center py-8'>Single User</h2>
+          <h2 className='text-2xl font-bold text-center py-8'>Basics</h2>
           <p className='text-center text-4xl font-bold'>$100</p>
           <div className='text-center font-medium'>
             <p className='py-2 border-b mx-8 mt-8'>500 GB Storage</p>
@@ -28,7 +28,7 @@ const Cards = () => {
             src={Double}
             alt="Double"
           />
-          <h2 className='text-2xl font-bold text-center py-8'>Double User</h2>
+          <h2 className='text-2xl font-bold text-center py-8'>Intermediates</h2>
           <p className='text-center text-4xl font-bold'>$200</p>
           <div className='text-center font-medium'>
             <p className='py-2 border-b mx-8 mt-8'>1000 GB Storage</p>
@@ -43,7 +43,7 @@ const Cards = () => {
             src={Triple}
             alt="Triple"
           />
-          <h2 className='text-2xl font-bold text-center py-8'>Triple User</h2>
+          <h2 className='text-2xl font-bold text-center py-8'>Advanced</h2>
           <p className='text-center text-4xl font-bold'>$300</p>
           <div className='text-center font-medium'>
             <p className='py-2 border-b mx-8 mt-8'>1500 GB Storage</p>

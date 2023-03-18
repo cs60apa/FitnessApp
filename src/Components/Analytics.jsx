@@ -7,12 +7,12 @@ const Analytics = () => {
       <div className="max-w-[1240px] mx-auto grid md:grid-cols-2 ">
         <img className="w-[500px] mx-auto my-4" src={Educator} alt="Educator" />
         <div className="flex flex-col justify-center">
-          <p className="text-[#00df9a] font-bold">DATA ANALYTICS TRENDS</p>
+          <p className="text-[#00df9a] font-bold">DATA PRESENTATION</p>
           <h1 className="md:text-xl sm:text-3xl font-bold py-2">
-            Manage Data Analytics Centrally
+            Manage your Learning path Effectively
           </h1>
           <p>
-            Centralizing data analytics allows organizations to achieve a number
+            Centralizing platform which allows researchers and learners to achieve a number
             of benefits. One of the key benefits is the ability to streamline
             data management processes. By having all data stored in one
             location, organizations can reduce the time and effort

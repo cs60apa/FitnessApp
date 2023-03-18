@@ -18,7 +18,7 @@ const Analytics = () => {
             location, organizations can reduce the time and effort
           </p>
           <button className="bg-[#00df9a] w-[200px] rounded-md mx-auto md:mx-0 font-medium my-6 py-3 text-black">
-            Get started
+            Read More
           </button>
         </div>
       </div>

@@ -40,7 +40,7 @@ and [Bootstrap][bootstrap] to name a few.
 
 This repo hosts:
 
-- The [Shields.io][shields.io] frontend and server code
+- The [Otofast][otofast.us] frontend and server code
 - An [NPM library for generating badges][badge-maker]
   - [documentation][badge-maker-docs]
   - [changelog][badge-maker-changelog]

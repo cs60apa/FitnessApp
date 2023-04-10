@@ -1,34 +1,130 @@
-#### Link to the demo
-[Deployed Demo↘️](https://otofast.netlify.app)
 
-[Open Source Contribution Guides]
+# Otofast Community
 
-#### Scaffolding Your First Vite Project
-Compatibility Note
+Otofast is a vibrant community of technology enthusiasts and professionals who are passionate about exploring the latest trends and innovations in the tech industry. With a focus on fostering collaboration, creativity, and learning, the community provides a platform for members to connect with like-minded individuals, share their ideas and expertise, and participate in engaging discussions and events
 
-**Vite requires Node.js version 14.18+, 16+. However, some templates require a higher Node.js version to work, please upgrade if your package manager warns about it.**
 
-##### Starter command
-#### With NPM:
-`npm create vite@latest`
+## Documentation↘️
 
-#### With Yarn:
-`yarn create vite`
+[Read more here about us](https://github.com/marksikaundi/Otofast/blob/master/Documentation.md)
 
-#### Then follow the prompts!
 
+
+## Authors
+
+- [☘️marksikaundi](https://www.github.com/octokatherine)
+
+
+## Badges
+
+Add badges from somewhere like: [shields.io](https://shields.io/)
+
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
+[![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
+
+
+## Features
+
+- Light/dark mode toggle
+- Live previews
+- Fullscreen mode
+- Cross platform
+
+
+# Otofast Community
+
+Otofast is a vibrant community of technology enthusiasts and professionals who are passionate about exploring the latest trends and innovations in the tech industry. With a focus on fostering collaboration, creativity, and learning, the community provides a platform for members to connect with like-minded individuals, share their ideas and expertise, and participate in engaging discussions and events
+
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
+
+# Otofast Community
+
+Otofast is a vibrant community of technology enthusiasts and professionals who are passionate about exploring the latest trends and innovations in the tech industry. With a focus on fostering collaboration, creativity, and learning, the community provides a platform for members to connect with like-minded individuals, share their ideas and expertise, and participate in engaging discussions and events
+
+
+## Support
+
+For support, email fake@fake.com or join our Slack channel.
+
+
+## Tech Stack
+
+**Client:** React, Redux, TailwindCSS
+
+**Server:** Node, Express
+
+
+# Otofast Community
+
+Otofast is a vibrant community of technology enthusiasts and professionals who are passionate about exploring the latest trends and innovations in the tech industry. With a focus on fostering collaboration, creativity, and learning, the community provides a platform for members to connect with like-minded individuals, share their ideas and expertise, and participate in engaging discussions and events
+
+
+## Roadmap
+
+- Additional browser support
+
+- Add more integrations
+
+
+## FAQ
+
+#### Question 1
+
+Answer 1
+
+#### Question 2
+
+Answer 2
+
+
+## Contributing
+
+Contributions are always welcome!
+
+See `contributing.md` for ways to get started.
+
+Please adhere to this project's `code of conduct`.
+https://img.shields.io/badge/<Open Sounce>-<Contribution>-<brightgreen>
+
+
+## Appendix
+
+Any additional information goes here
+
+
+## API Reference
+
+#### Get all items
+
+```http
+  GET /api/items
 ```
-You can also directly specify the project name and the template you want to use via additional command line options. For example, to scaffold a Vite + Vue project, run:
 
-# npm 6.x
-npm create vite@latest my-vue-app --template vue
+| Parameter | Type     | Description                |
+| :-------- | :------- | :------------------------- |
+| `api_key` | `string` | **Required**. Your API key |
 
-# npm 7+, extra double-dash is needed:
-npm create vite@latest my-vue-app -- --template vue
+#### Get item
 
-# yarn
-yarn create vite my-vue-app --template vue
-
-# pnpm
-pnpm create vite my-vue-app --template vue
+```http
+  GET /api/items/${id}
 ```
+
+| Parameter | Type     | Description                       |
+| :-------- | :------- | :-------------------------------- |
+| `id`      | `string` | **Required**. Id of item to fetch |
+
+#### add(num1, num2)
+
+Takes two numbers and returns the sum.
+
+
+# Otofast Community
+
+Otofast is a vibrant community of technology enthusiasts and professionals who are passionate about exploring the latest trends and innovations in the tech industry. With a focus on fostering collaboration, creativity, and learning, the community provides a platform for members to connect with like-minded individuals, share their ideas and expertise, and participate in engaging discussions and events
+

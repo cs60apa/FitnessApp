@@ -1,6 +1,8 @@
 #### Link to the demo
 [Deployed Demo↘️](https://otofast.netlify.app)
 
+[Open Source Contribution Guides]
+
 #### Scaffolding Your First Vite Project
 Compatibility Note
 

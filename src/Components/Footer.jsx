@@ -10,7 +10,7 @@ function Footer() {
   return (
     <div className="max-w[1240px] mx-auto py-16 px-4 grid lg:grid-cols-3 gap-8 text-gray-300 ">
       <div>
-        <h1 className="w-full text-3xl font-bold text-[#00df9a]">Otofast</h1>
+        <h1 className="w-full text-3xl font-bold text-[#00df9a]">Otofast Project</h1>
         <p className="py-4">
           Otofast is a software program designed for hearing care professionals
           such as audiologists and hearing aid specialists. It is a
@@ -62,7 +62,7 @@ function Footer() {
           </ul>
         </div>
       </div>
-      <div className="flex ">Copyrite 2023 Otofast</div>
+      <div className="flex ">Copyrite 2023 Otofast Project</div>
     </div>
   );
 }

@@ -4,6 +4,17 @@
 Otofast is a vibrant community of technology enthusiasts and professionals who are passionate about exploring the latest trends and innovations in the tech industry. With a focus on fostering collaboration, creativity, and learning, the community provides a platform for members to connect with like-minded individuals, share their ideas and expertise, and participate in engaging discussions and events
 
 
+## Badges
+
+Add badges from somewhere like: [shields.io](https://shields.io/)
+
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+[![Open Source Contribution](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
+[![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
+
+
+
+
 ## Documentation↘️
 
 [Read more here about us](https://github.com/marksikaundi/Otofast/blob/master/Documentation.md)
@@ -14,14 +25,6 @@ Otofast is a vibrant community of technology enthusiasts and professionals who a
 
 - [☘️marksikaundi](https://www.github.com/octokatherine)
 
-
-## Badges
-
-Add badges from somewhere like: [shields.io](https://shields.io/)
-
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
-[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
-[![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
 
 
 ## Features

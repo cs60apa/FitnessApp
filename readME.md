@@ -8,9 +8,9 @@ Otofast is a vibrant community of technology enthusiasts and professionals who a
 
 Add badges from somewhere like: [shields.io](https://shields.io/)
 
+[OPS](https://img.shields.io/static/v1?label=Open%20Source&message=Contribution&color=%3CCOLOR%3E)
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
-[![Open Source Contribution](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
-[![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
+[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
 
 
 

@@ -27,13 +27,11 @@
             alt="follow on Twitter"></a>
 </p>
 
-This is home to [Shields.io][shields.io], a service for concise, consistent,
-and legible badges in SVG and raster format, which can easily be included in
-GitHub readmes or any other web page. The service supports dozens of
-continuous integration services, package registries, distributions, app
-stores, social networks, code coverage services, and code analysis services.
-Every month it serves over 870 million images and is used by some of the
-world's most popular open-source projects, [VS Code][vscode], [Vue.js][vue]
+This is home to [Otofast][otofast.us], Otofast is a vibrant community of technology enthusiasts and professionals who are passionate about exploring the latest trends and innovations in the tech industry. With a focus on fostering collaboration, creativity, and learning, the community provides a platform for members to connect with like-minded individuals, share their ideas and expertise, and participate in engaging discussions and events.
+
+Whether you're a seasoned tech expert or just starting out in your career, Otofast offers a welcoming and supportive environment where you can learn from others, gain new insights and perspectives, and build meaningful connections with peers and mentors. Members of the community come from a diverse range of backgrounds and fields, including software development, data science, cybersecurity, AI, and more, making it a great place to explore different areas of interest and broaden your horizons.
+
+From meetups and hackathons to online forums and social media groups, Otofast offers a range of opportunities for members to connect and engage with the community. Whether you're looking to network, collaborate on a project, or simply learn more about the latest trends and technologies, Otofast is the place to be for anyone passionate about tech., [VS Code][vscode], [Vue.js][vue]
 and [Bootstrap][bootstrap] to name a few.
 
 [vscode]: https://github.com/Microsoft/vscode

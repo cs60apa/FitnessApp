@@ -135,56 +135,6 @@ Since this is an open source project, feel free to suggest what basically looks 
 [awesome-badges]: https://github.com/badges/awesome-badges
 [contributing to awesome-badges]: https://github.com/badges/awesome-badges/blob/main/CONTRIBUTING.md
 
-## History
-
-b.adge.me was the original website for this service. Heroku back then had a
-thing which made it hard to use a toplevel domain with it, hence the odd
-domain. It used code developed in 2013 from a library called
-[gh-badges][old-gh-badges], both developed by [Thaddée Tyl][espadrine].
-The project merged with shields.io by making it use the b.adge.me code
-and closed b.adge.me.
-
-The original badge specification was developed in 2013 by
-[Olivier Lacan][olivierlacan]. It was inspired by the Travis CI and similar
-badges (there were a lot fewer, back then). In 2014 Thaddée Tyl redesigned
-it with help from a Travis CI employee and convinced everyone to switch to
-it. The old design is what today is called the plastic style; the new one
-is the flat style.
-
-You can read more about [the project's inception][thread],
-[the motivation of the SVG badge specification][motivation], and
-[the specification itself][spec].
-
-[olivierlacan]: https://github.com/olivierlacan
-[espadrine]: https://github.com/espadrine
-[old-gh-badges]: https://github.com/badges/gh-badges
-[motivation]: https://github.com/badges/shields/blob/master/spec/motivation.md
-[spec]: https://github.com/badges/shields/blob/master/spec/SPECIFICATION.md
-[thread]: https://github.com/h5bp/lazyweb-requests/issues/150
-
-## Project leaders
-
-Maintainers:
-
-- [calebcartwright](https://github.com/calebcartwright) (core team)
-- [chris48s](https://github.com/chris48s) (core team)
-- [Daniel15](https://github.com/Daniel15) (core team)
-- [paulmelnikow](https://github.com/paulmelnikow) (core team)
-- [platan](https://github.com/platan) (core team)
-- [PyvesB](https://github.com/PyvesB) (core team)
-- [RedSparr0w](https://github.com/RedSparr0w) (core team)
-
-Operations:
-
-- [calebcartwright](https://github.com/calebcartwright)
-- [chris48s](https://github.com/chris48s)
-- [paulmelnikow](https://github.com/paulmelnikow)
-- [PyvesB](https://github.com/PyvesB)
-
-Alumni:
-
-- [espadrine](https://github.com/espadrine)
-- [olivierlacan](https://github.com/olivierlacan)
 
 ## License
 

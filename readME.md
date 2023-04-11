@@ -128,11 +128,7 @@ Daily tests, including a full run of the service tests and overall code coverage
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Status badges are used widely across open-source and private software projects.
-Academics have studied the "signal" badges provide about software project
-quality. There are many existing libraries for rendering these badges, and
-alternatives to the hosted Shields badge service. [awesome-badges][] is a
-curated collection of such resources.
+Since this is an open source project, feel free to suggest what basically looks good and great for the project then you can make a PR.
 [Contributions][contributing to awesome-badges] may be considered there.
 (The presence of a project in that collection should not be interpreted as an endorsement nor promotion from the Shields project)
 

@@ -62,10 +62,6 @@ This repo hosts:
 - Chrome Web Store extension rating: ![rating](https://img.shields.io/badge/rating-★★★★☆-brightgreen)
 - [Uptime Robot](https://uptimerobot.com) percentage: ![uptime](https://img.shields.io/badge/uptime-100%25-brightgreen)
 
-[Make your own badges!][custom badges]
-(Quick example: `https://img.shields.io/badge/left-right-f39f37`)
-
-[custom badges]: https://shields.io/#your-badge
 
 ### Quickstart
 

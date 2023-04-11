@@ -37,13 +37,12 @@ and [Bootstrap][bootstrap] to name a few.
 
 This repo hosts:
 
-- The [Otofast][otofast.us] frontend and server code
-- An [NPM library for generating badges][badge-maker]
-  - [documentation][badge-maker-docs]
-  - [changelog][badge-maker-changelog]
-- The [badge design specification][badge-spec]
+- The [Otofast][otofastproject.com]
+- Frontend only - {backend near future}
+  - [documentation]()
+  - [changelog]()
+- The [frontend design specification]()
 
-[shields.io]: https://shields.io/
 [badge-maker]: https://www.npmjs.com/package/badge-maker
 [badge-spec]: https://github.com/badges/shields/tree/master/spec
 [badge-maker-docs]: https://github.com/badges/shields/tree/master/badge-maker/README.md
@@ -65,7 +64,7 @@ This repo hosts:
 
 ### Quickstart
 
-Browse a [complete list of badges][shields.io] and locate a particular badge by using the search bar or by browsing the categories. Click on the badge to fill in required data elements for that badge type (like your username or repo) and optionally customize (label, colors etc.). And it's ready for use!
+Browse a [complete list of featured you can contribute to][Ducumentation.md] and locate a particular badge by using the search bar or by browsing the categories. Click on the badge to fill in required data elements for that badge type (like your username or repo) and optionally customize (label, colors etc.). And it's ready for use!
 
 Use the button at the bottom to copy your badge url or snippet, which can then be added to places like your GitHub readme files or other web pages.
 

@@ -16,7 +16,7 @@
     <a href="https://coveralls.io/github/badges/shields">
         <img src="https://img.shields.io/coveralls/github/badges/shields"
             alt="coverage"></a>
-    <a href="https://discord.gg/HjJCwm5">
+    <a href="https://discord.gg/Pf9kBYDv">
         <img src="https://img.shields.io/discord/308323056592486420?logo=discord"
             alt="chat on Discord"></a>
     <a href="https://twitter.com/intent/follow?screen_name=Alisikaundi">

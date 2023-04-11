@@ -92,8 +92,8 @@ You can read a [tutorial on how to add a badge][tutorial].
 1. Install Node 16 or later. You can use the [package manager][] of your choice.
    Tests need to pass in Node 16 and 17.
 2. Clone this repository.
-3. Run `npm ci` to install the dependencies.
-4. Run `npm start` to start the badge server and the frontend dev server.
+3. Run `npm i or yarn add` to install the dependencies.
+4. Run `npm run dev or yarn run dev` to start the badge server and the frontend dev server.
 5. Open `http://localhost:3000/` to view the frontend.
 
 When server source files change, the badge server should automatically restart
@@ -109,20 +109,6 @@ It also works with full URLs like
 Use `npm run debug:server` to start server in debug mode.
 [This recipe][nodemon debug] shows how to debug Node.js application in [VS Code][].
 
-Shields has experimental support for [Gitpod][gitpod], a pre-configured development
-environment that runs in your browser. To use Gitpod, click the button below and
-sign in with GitHub. Gitpod also offers a browser add-on, though it is not required.
-Please report any Gitpod bugs, questions, or suggestions in issue
-[#2772](https://github.com/badges/shields/issues/2772).
-
-[![Edit with Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/badges/shields)
-
-[Snapshot tests][] ensure we don't inadvertently make changes that affect the
-SVG or JSON output. When deliberately changing the output, run
-`SNAPSHOT_DRY=1 npm run test:package` to preview changes to the saved
-snapshots, and `SNAPSHOT_UPDATE=1 npm run test:package` to update them.
-
-The server can be configured to use [Sentry][] ([configuration][sentry configuration]) and [Prometheus][] ([configuration][prometheus configuration]).
 
 Daily tests, including a full run of the service tests and overall code coverage, are run via [badges/daily-tests][daily-tests].
 
@@ -137,12 +123,6 @@ Daily tests, including a full run of the service tests and overall code coverage
 [nodemon]: https://nodemon.io/
 [nodemon debug]: https://github.com/Microsoft/vscode-recipes/tree/master/nodemon
 [vs code]: https://code.visualstudio.com/
-
-## Hosting your own server
-
-There is documentation about [hosting your own server][self-hosting].
-
-[self-hosting]: https://github.com/badges/shields/blob/master/doc/self-hosting.md
 
 ## Related projects
 

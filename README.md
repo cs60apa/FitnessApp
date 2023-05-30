@@ -52,7 +52,7 @@ This repo hosts:
 - static code analysis grade: ![codacy](https://img.shields.io/badge/codacy-B-green)
 
 
-### Quickstart
+### Quickstart👨‍💻
 
 Browse a [complete list of featured you can contribute to][Ducumentation.md] and locate a particular badge by using the search bar or by browsing the categories. Click on the badge to fill in required data elements for that badge type (like your username or repo) and optionally customize (label, colors etc.). And it's ready for use!
 

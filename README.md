@@ -61,7 +61,7 @@ Use the button at the bottom to copy your badge url or snippet, which can then b
 ## Contributing
 
 Otofast Project Community. We invite your participation through issues
-and pull requests! You can peruse the [contributing guidelines][contributing].
+and pull requests. You can peruse the [contributing guidelines][contributing].
 
 When adding or changing a service [please add tests][service-tests].
 

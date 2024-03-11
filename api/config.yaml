@@ -1,5 +1,8 @@
 configurationset:
   - configuration:
-      name: api_config
-  - configuration: 
       name: edamam
+      app_id: d693561b
+      app_key: 234323613a984206a7626bb160edcf8d	
+
+      
+       

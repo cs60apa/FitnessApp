@@ -21,11 +21,10 @@ type Query {
       configuration: "postgresql_config"
     )
 
-  foodLogs(user_id: String!): [Food_log]
+  foodLogsForDate(user_id: String!, date: Date!): [Food_log]
     @dbquery(
       type: "postgresql"
-      schema: "public"
-      table: "food_log"
+      query: "SELECT * FROM food_log WHERE user_id = $1 AND DATE(created_at) = $2"
       configuration: "postgresql_config"
     )
 

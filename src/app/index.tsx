@@ -7,9 +7,9 @@ import {
   StyleSheet,
   ActivityIndicator,
 } from "react-native";
-import FoodListItem from "../components/FoodListItem";
 import { gql, useQuery } from "@apollo/client";
 import dayjs from "dayjs";
+import FoodLogListItem from "../components/FoodLogListItem";
 
 const query = gql`
   query MyQuery($date: Date!, $user_id: String!) {
@@ -24,16 +24,10 @@ const query = gql`
   }
 `;
 
-const foodListItems = [
-  {
-    food: { label: "Pizza", nutrients: { ENERC_KCAL: 100 }, brand: "Dominos" },
-  },
-];
-
 export default function HomeScreen() {
   const user_id = "Morally";
   const { data, loading, error } = useQuery(query, {
-    variables: { date: dayjs().format('YYYY-MM-DD'), user_id },
+    variables: { date: dayjs().format("YYYY-MM-DD"), user_id },
   });
 
   if (loading) {
@@ -62,7 +56,7 @@ export default function HomeScreen() {
       <FlatList
         data={data.foodLogsForDate}
         contentContainerStyle={{ gap: 5 }}
-        renderItem={({ item }) => <FoodListItem item={item} />}
+        renderItem={({ item }) => <FoodLogListItem item={item} />}
       />
     </View>
   );

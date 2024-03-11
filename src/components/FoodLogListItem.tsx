@@ -1,5 +1,4 @@
 import { StyleSheet, Text, View } from "react-native";
-import { AntDesign } from "@expo/vector-icons";
 
 const FoodLogListItem = ({ item }) => {
   return (
@@ -8,7 +7,6 @@ const FoodLogListItem = ({ item }) => {
         <Text style={{ fontWeight: "bold", fontSize: 16 }}>{item.label}</Text>
         <Text style={{ color: "dimgray" }}>{item.kcal} cal,</Text>
       </View>
-      <AntDesign name="pluscircleo" size={24} color="royalblue" />
     </View>
   );
 };

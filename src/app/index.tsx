@@ -25,7 +25,7 @@ const query = gql`
 `;
 
 export default function HomeScreen() {
-  const user_id = "Morally";
+  const user_id = "Mark";
   const { data, loading, error } = useQuery(query, {
     variables: { date: dayjs().format("YYYY-MM-DD"), user_id },
   });

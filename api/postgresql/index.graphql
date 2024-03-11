@@ -20,6 +20,15 @@ type Query {
       table: "food_log"
       configuration: "postgresql_config"
     )
+
+  foodLogs(user_id: String!): [Food_log]
+    @dbquery(
+      type: "postgresql"
+      schema: "public"
+      table: "food_log"
+      configuration: "postgresql_config"
+    )
+
   food_logByFood_idAndLabel(food_id: String!, label: String!): [Food_log]
     @dbquery(
       type: "postgresql"
@@ -71,7 +80,6 @@ type Mutation {
     food_id: String
     kcal: Int
     user_id: String
-    created_at: DateTime
   ): Food_log
     @dbquery(
       type: "postgresql"

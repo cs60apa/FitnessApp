@@ -1,4 +1,11 @@
-import { StyleSheet, Text, View, FlatList, TextInput, Button } from "react-native";
+import {
+  StyleSheet,
+  Text,
+  View,
+  FlatList,
+  TextInput,
+  Button,
+} from "react-native";
 import FoodListItem from "../components/FoodListItem";
 import { useState } from "react";
 
@@ -25,7 +32,7 @@ export default function App() {
         placeholder="Search for food"
         style={styles.input}
       />
-      {search && <Button  title="Search" onPress={performSearch}  />}
+      {search && <Button title="Search" onPress={performSearch} />}
 
       <FlatList
         data={foodListItems}

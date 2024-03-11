@@ -1,0 +1,5 @@
+configurationset:
+  - configuration:
+      name: api_config
+  - configuration: 
+      name: edamam

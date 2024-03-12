@@ -1,5 +1,4 @@
 import { View, Text, StyleSheet } from "react-native";
-import { AntDesign } from "@expo/vector-icons";
 
 const FoodLogListItem = ({ item }) => {
   return (
